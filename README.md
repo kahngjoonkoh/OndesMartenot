@@ -6,6 +6,9 @@ A solidworks design for the Ondes Martenot.
 
 The cable system will rotate the potentiometer which will affect the voltage value read by the Arduino. The voltage value read will determine the frequency of sound produced by the speaker. 
 
+<a href="https://github.com/kahngjoonkoh/OndesMartenot/blob/main/main/test.py">Test.py</a> contains the proof-of-concept for this approach.
+
+
 ## License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
